@@ -59,10 +59,6 @@ Minor is 2 digits\(4characters\)HEX value, default value is :0000, For example, 
 
 [https://drive.google.com/open?id=0B8lpKY3HUrXJNGZKbEN3RzdtdlU2MGZXZEVBbkphc1FHdkY4](https://drive.google.com/open?id=0B8lpKY3HUrXJNGZKbEN3RzdtdlU2MGZXZEVBbkphc1FHdkY4)
 
-
-
-
-
 # Wellcore w903 iBeacon {#product-name}
 
 ---
@@ -97,8 +93,6 @@ principal es de 2 dígitos \(4 caracteres\) valor HEXADECIMAL, el valor predeter
 
 todo menor de 2 dígitos \(4 caracteres\) valor HEXADECIMAL, el valor predeterminado es: 0000, por ejemplo, modificar este dispositivo: 8811, A Continuación, escribir valores Correspondientes en el “ Escribir nuevo valor ”, haga clic en Hecho cuando termine. Mientras Tanto, la nueva serie Menor muestra en la Lectura de nuevo.
 
-
-
 # Wellcore w912 iBeacon {#product-name}
 
 ---
@@ -108,10 +102,6 @@ todo menor de 2 dígitos \(4 caracteres\) valor HEXADECIMAL, el valor predetermi
 | ![](/assets/beacon_wellcore_w912.png) | ![](/assets/beacon_wellcore_w912_detail.png) |
 
 **URL:** [https://es.aliexpress.com/store/product/Wellcore-High-Quality-W912-Waterproof-Ibeacon-Free-Sample-Shipping-Cost-via-China-Post-with-Lowest-Price/112397\_32598251861.html](https://es.aliexpress.com/store/product/Wellcore-High-Quality-W912-Waterproof-Ibeacon-Free-Sample-Shipping-Cost-via-China-Post-with-Lowest-Price/112397_32598251861.html)
-
-## **Especificaciones del artículo:**
-
-
 
 ## How to use it?
 
@@ -137,4 +127,76 @@ todo menor de 2 dígitos \(4 caracteres\) valor HEXADECIMAL, el valor predetermi
 ## Manual de instrucciones \[PDF\]
 
 [https://drive.google.com/open?id=0B8lpKY3HUrXJdFpidnNobU53blRZRzhHOU91WTJaSEh1dzdJ](https://drive.google.com/open?id=0B8lpKY3HUrXJdFpidnNobU53blRZRzhHOU91WTJaSEh1dzdJ)
+
+
+
+# Module Bluetooth 4.0 Near-Field Posioning Sensor
+
+---
+
+|  |
+| :---: |
+| ![](/assets/beacon_near-field_positioning_sensor.png) |
+
+**URL: **[https://es.aliexpress.com/item/iBeacon-Module-Bluetooth-4-0-BLE-Near-Field-Positioning-Sensor/32517848906.html?spm=2114.10010408.1000016.1.S4bgXv&isOrigTitle=true](https://es.aliexpress.com/item/iBeacon-Module-Bluetooth-4-0-BLE-Near-Field-Positioning-Sensor/32517848906.html?spm=2114.10010408.1000016.1.S4bgXv&isOrigTitle=true)
+
+## **Especificaciones del artículo:**
+
+* **OS:** iOS 7.0, Android 4.3+, bluetooth 4.0+
+* **BT Version:** Bluetooth Specification V4.0 BLE Send and receive no bytes limit.
+* **Working frequency:** 2.4GHz ISM band
+* **Modulation method:** GFSK\(Gaussian Frequency Shift Keying\)
+* **RF Power:** -23dbm, -6dbm, 0dbm, 6dbm, can modify through AT Command AT+POWE.
+* **Speed:** Asynchronous: 6K Bytes
+* **Synchronous:** 6K Bytes
+* **Security:** Authentication and encryption
+* **Service:** Central & Peripheral UUID FFE0,FFE1
+* **Power:** +3.3VDC 50mA
+* **Long range:** Open space have 100 Meters with iphone4s
+* **Power:** In sleep mode 400uA~1.5mA, Active mode 8.5mA.
+* **Working temperature: **-5 ~ +65 Centige
+* **Size:** 24.8mm x 24.8mm, thickness 7.5mm
+* **Battery type: **CR2032 \(NOTE:the battery not included\) 
+
+You can customize your own iBeacon configuration including UUID etc
+
+
+
+# **BLE 4.0 Module CC2540 CC2541 HM-11 Temperature Humidity Monitoring Seria**
+
+---
+
+|  |
+| :---: |
+| ![](/assets/beacon_BLE_4.0_CC2540_cc2541_HM-11_Temperature_Humidity_Monitoring_Serial.png) |
+
+**URL: **[https://es.aliexpress.com/item/BLE-4-0-Module-CC2540-CC2541-HM-11-Temperature-Humidity-Monitoring-Serial/2024828737.html?spm=2114.10010408.1000016.1.mRpR99&isOrigTitle=true](https://es.aliexpress.com/item/BLE-4-0-Module-CC2540-CC2541-HM-11-Temperature-Humidity-Monitoring-Serial/2024828737.html?spm=2114.10010408.1000016.1.mRpR99&isOrigTitle=true)
+
+## **Especificaciones del artículo:**
+
+This is lead to UART, USB, composite programming interface module + base + programmer. The onboard 2032 battery, AMS1117, lead out LED, PIO interface, USB, UART interface.
+
+
+
+# Comfast CF-B1
+
+---
+
+|  |  |
+| :--- | :--- |
+| ![](/assets/comfast_cf-b1.jpg) | ![](/assets/beacon_comfast_cf-b1_images.png) |
+
+**URL: **[https://www.alibaba.com/product-detail/OEM-CF-B1-long-range-bluetooth\_60503596009.html](https://www.alibaba.com/product-detail/OEM-CF-B1-long-range-bluetooth_60503596009.html)
+
+## Description
+
+iBeacon uses Bluetooth 4.0 BLE technology; it can help you locate indoor. The searching range is up to 50m. Its small size like a coin that can be easily placed indoors.Users can change its paring code, transmitted power, and other customized functions. It has a virtue of quick respond and less Latency.
+
+## **Especificaciones del artículo:**
+
+![](/assets/beacon_comfast_cf-b1_specifications.png)
+
+
+
+
 
