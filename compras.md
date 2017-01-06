@@ -1,24 +1,22 @@
 A continuación se listan los "beacons" que he adquirido hasta el momento:
 
-
-
-# Hot Sale Ble 4 0 Ibeacon Small, Certified Bluetooth Ibeacon Waterproof with SDK and APP {#product-name}
+# Wellcore w908 iBeacon: Hot Sale Ble 4 0 Ibeacon Small, Certified Bluetooth Ibeacon Waterproof with SDK and APP {#product-name}
 
 ---
 
-![](/assets/wellcore_beacon.png)
+
+
+|  |  |
+| :---: | :--- |
+| ![](/assets/wellcore_beacon.png) | ![](/assets/beacon_wellcore_features.png) |
 
 **URL:** [https://www.aliexpress.com/snapshot/7169499111.html?spm=2114.13010608.0.0.pQUQHo&orderId=71599150163919&productId=32252660333](https://www.aliexpress.com/snapshot/7169499111.html?spm=2114.13010608.0.0.pQUQHo&orderId=71599150163919&productId=32252660333)
 
+## **Especificaciones del artículo:**
 
-
-**Especificaciones del artículo:**
-
-* **Is\_customized:** Yes
+![](/assets/beacon_wellcore_specifications.png)
 
 * **Operating Temperature:** -20~+60c
-
-* **Brand Name:** wellcore
 
 * **Dissipation Power:** 3.6W
 
@@ -30,33 +28,17 @@ A continuación se listan los "beacons" que he adquirido hasta el momento:
 
 * **Type:** bluetooth module
 
-* **Color:** White 
-
-* **Model Number:** W908
+* **Color:** White
 
 * **Size:** similar with e-stimote type
-
-* **Work voltage:** 2.0-3.6V
-
-* **Frequency:** +/-2.4G HZ
 
 * **System:** IOS 7.0, Android 4.3 or above
 
 * **Main chip:** TI CC2541/CC2541
 
-* **Working range:** 50m-100m
-
 * **Battery Life:** 2 years
 
 * **Certificate:** CE FCC RoHS
-
-
-
-
-
-
-
-
 
 
 
