@@ -14,8 +14,6 @@ Páginas de referencia relacionadas con Beacons:
 
 * [http://www.sensoro.com/en/whyus](http://www.sensoro.com/en/whyus)
 
-
-
 Wellcore related references:
 
 * [https://www.beaconzone.co.uk/wellcoretechnical](https://www.beaconzone.co.uk/wellcoretechnical)
