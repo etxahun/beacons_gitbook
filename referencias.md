@@ -16,3 +16,9 @@ Páginas de referencia relacionadas con Beacons:
 
 
 
+Wellcore related references:
+
+* [https://www.beaconzone.co.uk/wellcoretechnical](https://www.beaconzone.co.uk/wellcoretechnical)
+
+
+
