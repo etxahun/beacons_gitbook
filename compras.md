@@ -59,6 +59,8 @@ Minor is 2 digits\(4characters\)HEX value, default value is :0000, For example, 
 
 [https://drive.google.com/open?id=0B8lpKY3HUrXJNGZKbEN3RzdtdlU2MGZXZEVBbkphc1FHdkY4](https://drive.google.com/open?id=0B8lpKY3HUrXJNGZKbEN3RzdtdlU2MGZXZEVBbkphc1FHdkY4)
 
+#  {#product-name}
+
 # Wellcore w903 iBeacon {#product-name}
 
 ---
@@ -92,6 +94,8 @@ principal es de 2 dígitos \(4 caracteres\) valor HEXADECIMAL, el valor predeter
 **Modify Minor**
 
 todo menor de 2 dígitos \(4 caracteres\) valor HEXADECIMAL, el valor predeterminado es: 0000, por ejemplo, modificar este dispositivo: 8811, A Continuación, escribir valores Correspondientes en el “ Escribir nuevo valor ”, haga clic en Hecho cuando termine. Mientras Tanto, la nueva serie Menor muestra en la Lectura de nuevo.
+
+#  {#product-name}
 
 # Wellcore w912 iBeacon {#product-name}
 
@@ -128,7 +132,7 @@ todo menor de 2 dígitos \(4 caracteres\) valor HEXADECIMAL, el valor predetermi
 
 [https://drive.google.com/open?id=0B8lpKY3HUrXJdFpidnNobU53blRZRzhHOU91WTJaSEh1dzdJ](https://drive.google.com/open?id=0B8lpKY3HUrXJdFpidnNobU53blRZRzhHOU91WTJaSEh1dzdJ)
 
-
+# 
 
 # Module Bluetooth 4.0 Near-Field Posioning Sensor
 
@@ -160,7 +164,7 @@ todo menor de 2 dígitos \(4 caracteres\) valor HEXADECIMAL, el valor predetermi
 
 You can customize your own iBeacon configuration including UUID etc
 
-
+# 
 
 # **BLE 4.0 Module CC2540 CC2541 HM-11 Temperature Humidity Monitoring Seria**
 
@@ -176,7 +180,7 @@ You can customize your own iBeacon configuration including UUID etc
 
 This is lead to UART, USB, composite programming interface module + base + programmer. The onboard 2032 battery, AMS1117, lead out LED, PIO interface, USB, UART interface.
 
-
+# 
 
 # Comfast CF-B1
 
@@ -190,13 +194,9 @@ This is lead to UART, USB, composite programming interface module + base + progr
 
 ## Description
 
-iBeacon uses Bluetooth 4.0 BLE technology; it can help you locate indoor. The searching range is up to 50m. Its small size like a coin that can be easily placed indoors.Users can change its paring code, transmitted power, and other customized functions. It has a virtue of quick respond and less Latency.
+iBeacon uses Bluetooth 4.0 BLE technology; it can help you locate indoor. The searching range is up to 50m. Its small size like a coin that can be easily placed indoors.Users can change its paring code, transmitted power, and other customized functions. It has a virtue of quick respond and less Latency.
 
 ## **Especificaciones del artículo:**
 
 ![](/assets/beacon_comfast_cf-b1_specifications.png)
-
-
-
-
 
