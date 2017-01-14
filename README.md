@@ -1,2 +1,4 @@
-# beacons_gitbook
-Beacons related personal notes
+# beacons\_gitbook
+
+BLE Beacon technology related personal notes.
+
